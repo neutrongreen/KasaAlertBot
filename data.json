@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Dryer",
+        "message": "@everyone dryer is finshesed",
+        "ip": "127.0.0.1",
+        "operator": "falling",
+        "value": 700
+    }
+]
